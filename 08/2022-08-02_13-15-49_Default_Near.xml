@@ -1,0 +1,32 @@
+<DocumentElement>
+  <TestData>
+    <name>Cube</name>
+    <completed>true</completed>
+    <time>75.8402955</time>
+    <totObjMov>9.835657</totObjMov>
+    <totObjRot>1056.04028</totObjRot>
+    <totLeftMov>7.01285362</totLeftMov>
+    <totRightMov>19.3861313</totRightMov>
+    <manipulationCount>13</manipulationCount>
+  </TestData>
+  <TestData>
+    <name>Cube</name>
+    <completed>true</completed>
+    <time>45.2340807</time>
+    <totObjMov>8.233142</totObjMov>
+    <totObjRot>522.1817</totObjRot>
+    <totLeftMov>5.85980558</totLeftMov>
+    <totRightMov>5.03730345</totRightMov>
+    <manipulationCount>10</manipulationCount>
+  </TestData>
+  <TestData>
+    <name>Cube</name>
+    <completed>true</completed>
+    <time>11.465707</time>
+    <totObjMov>4.157059</totObjMov>
+    <totObjRot>297.058228</totObjRot>
+    <totLeftMov>2.13813758</totLeftMov>
+    <totRightMov>3.48357773</totRightMov>
+    <manipulationCount>7</manipulationCount>
+  </TestData>
+</DocumentElement>
